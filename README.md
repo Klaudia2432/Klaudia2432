@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Klaudia2432
-- 👀 I’m interested in Software Testing and Coding (frontend is my passion)
-- 🌱 I’m currently learning cypress test automation framework and JavaScript
+- 👀 I’m interested in Software Testing and Coding (especially in frontend development)
+- 🌱 I’m currently learning Playwright test automation framework and JavaScript
 - Working in Serenity BDD (Selenium based framework)
 - 💞️ I’m looking to collaborate on a lot of projects
 - 📫 How to reach me GitHub @Klaudia2432
